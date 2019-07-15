@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ALC Phase 1</string>
+    <string name="welcome_to_alc_4_0">Welcome to ALC 4.0</string>
+    <string name="about_alc">ABOUT ALC</string>
+    <string name="my_profile">MY PROFILE</string>
+    <string name="track">Track</string>
+    <string name="slack_username">Slack Username:</string>
+    <string name="phone_number">Phone number:</string>
+    <string name="email">Email:</string>
+    <string name="country">Country:</string>
+    <string name="back">back</string>
+    <string name="_07556254789">07556254789</string>
+    <string name="codebeater">codebeater</string>
+    <string name="anyone_gmail_com">anyone@gmail.com</string>
+    <string name="thisland">Thisland</string>
+    <string name="android_with_noodles">Android with Noodles</string>
+    <string name="name_one">Name One</string>
+</resources>
